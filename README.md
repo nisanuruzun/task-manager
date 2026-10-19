@@ -2,7 +2,7 @@
 
 React ile yazdığım bir görev yönetim panosu. Görevleri alanlara ayırıp öncelik, tarih ve alt görevlerle takip ediyor, her görev için çalışma süresi tutuyor.
 
-**Canlı demo:** https://nisanur-task-manager.netlify.app
+**Canlı demo:** https://nisanur-task-managerr.netlify.app
 
 ## Özellikler
 
